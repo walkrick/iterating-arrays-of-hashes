@@ -7,13 +7,13 @@ To run:
 
 ```bash
 gem install rspec
-rspec --color dogs_spec.rb
+rspec --color ./spec/dogs_spec.rb
 ```
 
 To focus on a test, just add the line number like:
 
 ```bash
-rspec --color ./dogs_spec.rb:9
+rspec --color ./spec/dogs_spec.rb:9
 ```
 
 Good luck!
