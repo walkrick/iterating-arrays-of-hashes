@@ -9,7 +9,7 @@ class Dogs
       :owner_quality => EXCELLENT
     }
     sarah = {
-      :name => {:first => "Sarah", :last => "Smith"},
+      :name => {:first => "Sarah", :last => "Darnum"},
       :owner_quality => AVERAGE
     }
     andrew = {
